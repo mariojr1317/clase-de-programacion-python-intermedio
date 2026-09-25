@@ -1,0 +1,13 @@
+{
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.ruff": "explicit",
+        "source.organizeImports.ruff": "explicit"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+}
