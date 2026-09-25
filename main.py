@@ -27,7 +27,8 @@ def validate_api_key(api_key):
 # PEP 8: Funciones principales - agrupadas después de utilidadez
 def fetch_news_from_api(api_name, query):
     """Obtiene noticias de una API especifíca"""
-
+    pass
 
 def process_article_data(raw_data):
     """Procesa datos crudos de artículo"""
+    pass
